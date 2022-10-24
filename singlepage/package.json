@@ -1,0 +1,14 @@
+{
+  "name": "imgsearch",
+  "version": "1.0.0",
+  "description": "search relevant images and videos by keyword",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sara Liu",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.2.2"
+  }
+}
